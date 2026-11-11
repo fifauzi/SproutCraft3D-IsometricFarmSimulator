@@ -1,0 +1,6 @@
+{
+  "name": "SproutCraft 3D - Isometric Farm Simulator",
+  "description": "A cozy, 3D isometric farming simulator built with React Three Fiber, featuring interactive soil plots, crop growth cycles, watering mechanics, and market economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
